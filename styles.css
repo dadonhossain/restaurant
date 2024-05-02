@@ -1,0 +1,82 @@
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.hero {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f8f8f8;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Page-specific styles */
+.menu-item {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.menu-item img {
+    width: 100%;
+    height: auto;
+}
+
+.contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.contact-form label,
+.contact-form input,
+.contact-form textarea,
+.contact-form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.contact-form button {
+    background-color: #333;
+    color: #fff;
+    padding:
+
+
+
+
+
